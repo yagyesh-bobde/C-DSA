@@ -8,11 +8,25 @@ Wrote codes for pattern questions.
 <table>
 <tr>
 <th>Sr. No.</th>
-<th><Name/Question</th>
+<th>Name/Question</th>
+<th>Pattern</th>
 <th>Link</th>
 </tr>
 <tr>
-<td>1</td>
-<td>Butterfly pattern</td>
-<td><a href="https://github.com/yagyesh-bobde/C-DSA/blob/main/pattern-butterfly.cpp" target="_blank" >https://github.com/yagyesh-bobde/C-DSA/blob/main/pattern-butterfly.cpp</a></td>
+  <td>1</td>
+  <td>Butterfly pattern</td>
+  <td>
+  Q. for n =5 
+*                 * 
+* *             * * 
+* * *         * * * 
+* * * *     * * * * 
+* * * * * * * * * * 
+* * * * * * * * * * 
+* * * *     * * * * 
+* * *         * * * 
+* *             * * 
+*                 *
+  </td>
+  <td><a href="https://github.com/yagyesh-bobde/C-DSA/blob/main/pattern-butterfly.cpp" target="_blank" >https://github.com/yagyesh-bobde/C-DSA/blob/main/pattern-butterfly.cpp</a></td>
 </tr>
