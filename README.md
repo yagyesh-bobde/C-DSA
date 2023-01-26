@@ -16,17 +16,17 @@ Wrote codes for pattern questions.
   <td>1</td>
   <td>Butterfly pattern</td>
   <td>
-  Q. for n =5 
-*                 * 
-* *             * * 
-* * *         * * * 
-* * * *     * * * * 
-* * * * * * * * * * 
-* * * * * * * * * * 
-* * * *     * * * * 
-* * *         * * * 
-* *             * * 
-*                 *
+  Q. for n =5 <br>
+*                 *<br> 
+* *             * * <br>
+* * *         * * * <br>
+* * * *     * * * * <br>
+* * * * * * * * * * <br>
+* * * * * * * * * * <br>
+* * * *     * * * * <br>
+* * *         * * * <br>
+* *             * * <br>
+*                 *<br>
   </td>
   <td><a href="https://github.com/yagyesh-bobde/C-DSA/blob/main/pattern-butterfly.cpp" target="_blank" >https://github.com/yagyesh-bobde/C-DSA/blob/main/pattern-butterfly.cpp</a></td>
 </tr>
